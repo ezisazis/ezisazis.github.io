@@ -18,11 +18,11 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 a{
-	color:#2196F3; /*Change link color */
+	color:#b3b3b3;
 	text-decoration:none;
 }
 a:hover{
-	color:#64B5F6; /*Change link color (on mouse over)*/
+	color:#999999;
 }
 #top_bg{
 	z-index:-1;
