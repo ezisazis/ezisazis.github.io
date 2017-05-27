@@ -79,7 +79,7 @@ a:hover{
 }
 #about_card>.tab>.title{
 	font-size:16px;
-	color:#2196F3; /*Change title and title icon color (About Card)*/
+	color:#455A64;
 }
 .title i{
 	position:relative;
@@ -121,7 +121,7 @@ hr{
 }
 #contact_card>.tab>.title{
 	font-size:16px;
-	color:#2196F3; /*Change title and title icon color (Contact Card)*/
+	color:#455A64;
 }
 #contact_card>.tab>.content{
 	padding-top:10px;
