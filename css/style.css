@@ -93,10 +93,20 @@ a:hover{
 	margin-bottom:5px;
 	margin-top:5px;
 }
+#about_card .element .table {
+	width: 100%;
+}
 #about_card .element .name{
 	color:#212121;
 	font-size:15px;
 	margin-bottom:3px;
+	text-align: left;
+}
+#about_card .element .date{
+	color:#616161;
+	font-size:13px;
+	margin-bottom:3px;
+	text-align: right;
 }
 #about_card .element .info{
 	color:#616161;
@@ -111,7 +121,7 @@ hr{
 }
 #contact_card{
 	position:relative;
-	padding:15px 30px 15px 30px;
+	padding:15px 32px 15px 32px;
 	margin-top:22px;
 	margin-bottom:40px;
 }
